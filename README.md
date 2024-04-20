@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an aspiring python developer and data scientist looking into transitioning into the tech sector
+I am an aspiring python developer and data scientist looking into transitioning into the tech sector. In my previous life, I was working as a Structural Engineer with a side hobby in currency/stock trading.
 
 In this account I have included a few of my projects that I have been working on.
 
