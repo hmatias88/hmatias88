@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am an aspiring python developer and data scientist looking into transitioning into the tech sector
+
+In this account I have included a few of my projects that I have been working on.
+
+- 🌱 I’m currently learning Python, Pandas, NumPy, Seaborn, Git.
