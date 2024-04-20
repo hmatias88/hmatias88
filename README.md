@@ -19,4 +19,4 @@ I am an aspiring python developer and data scientist looking into transitioning 
 
 In this account I have included a few of my projects that I have been working on.
 
-- 🌱 I’m currently learning Python, Pandas, NumPy, Seaborn, Git.
+- 🌱 I’m currently enrolled on a Data Science bootcamp with HyperionDev learning Python, Pandas, NumPy, Seaborn, Git. I'm very excited about this!
